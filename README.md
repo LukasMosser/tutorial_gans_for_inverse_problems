@@ -20,3 +20,4 @@ Nevertheless, the tutorial aims to give a self-contained example of how to combi
 The examples with either alot of noise, or few projections do not allow for the geometry of the ground truth number or channel system to be determined. 
 The solutions obtained will then have a variety of solutions as many different geometries maximize the a-posteriori probability.
 
+Try it out here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LukasMosser/tutorial_gans_for_inverse_problems/blob/main/notebooks/Solving_Inverse_Problems_with_Pretrained_Latent_Variable_Models.ipynb)
