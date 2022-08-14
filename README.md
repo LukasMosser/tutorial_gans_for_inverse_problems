@@ -2,6 +2,8 @@
 
 _Lukas Mosser - 2022_
 ---
+### [Curvenote Page Rendered Here](https://l_moss-tutorial.curve.space/)
+
 ## Description
 
 A short tutorial on using a GAN to find solutions to an ill-posed inverse problem.
