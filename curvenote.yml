@@ -1,0 +1,27 @@
+version: 1
+project:
+  title: >-
+  Tutorial on GANs for Inverse Problems
+site:
+  title: >-
+  Tutorial on GANs for Inverse Problems
+  projects:
+    - path: .
+      slug: order_agnostic_diffusion_geostats
+  nav:
+    - title: >-
+      Tutorial on GANs for Inverse Problems
+      url: /tutorial_gans_for_inverse_problems
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - l_moss-tutorial.curve.space
+  logo: public/logo.svg
+  logoText: >-
+  Tutorial on GANs for Inverse Problems
+  authors:
+    - name: Lukas Mosser
+      orcid: 0000-0003-2680-5002
+      corresponding: true
+      email: lukas.mosser@gmail.com
